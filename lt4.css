@@ -1,0 +1,22 @@
+td {
+    height: 50px;
+    border: 1px dashed blue;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+table {
+    border : 1px solid black;
+}
+
+tr {
+    background-color: rgb(255, 127, 127);
+}
+a{
+    font-size: large;
+    font-weight: 900;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid red;
+    color: pink;
+}
